@@ -139,8 +139,8 @@ This repo contains all the lecture notes and supplemental notes for this special
       - Discover how CNNs can be applied to multiple fields, including art generation and face recognition.
       - Implement your own algorithm to generate art and recognize faces!    
 
-
-[![License](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]
+### License 
+![License](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)
 These assignments are under MIT license Copyright (c) 2018 Mohamed el-Maghraby [LICENSE.md](https://github.com/Magho/Deep_Learning_specilization_Coursera/blob/master/LICENSE)
 
 ### Each week contain it's assignment and data 
