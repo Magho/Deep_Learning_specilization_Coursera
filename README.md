@@ -4,8 +4,6 @@
 
 Instructor: [Andrew Ng](http://www.andrewng.org/)
 
-This repo contains all the lecture notes and supplemental notes for this specialization. I am using it as a reminder for me in case I forgot something, so instead of go through the whole videos again, I will just check it first here ;)
-
 ## Goals
 - Learn the foundations of Deep Learning
 - Understand how to build neural networks
